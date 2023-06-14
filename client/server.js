@@ -27,7 +27,7 @@ app.post('/', async (req, res) => {
   });
   res.json({
     message: response.data.choices[0].text,
-    // data: 'sample steps',
+    // message: 'sample steps',
   });
 });
 

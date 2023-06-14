@@ -31,3 +31,7 @@ Just to make it easy, usually the server file shoule be placed under /server fol
 Placed the Openai API keys in .env file. Ask me if you have any question.
 
 
+### Screenshot:
+
+
+![Screenshot](./src/Screenshot-todos.png)
