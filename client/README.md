@@ -14,7 +14,7 @@ In the project directory, you can run:
 
 Please install all the dependencies before running
 
-### Frontend(Client) `npm start`
+### Run Frontend(Client) at `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### Server `node server.js`
+### Run Server at `node server.js`
 
 Just to make it easy, usually the server file shoule be placed under /server folder, in this case cd to the /src folder to run the server.js for the backend.
 
